@@ -1,0 +1,5 @@
+#Keep these file types private :)
+*.vmat
+*.vmdl
+*.vmap
+*.vtex
