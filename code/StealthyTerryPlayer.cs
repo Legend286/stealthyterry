@@ -2,9 +2,9 @@
 using System;
 using System.Linq;
 
-namespace MinimalExample
+namespace StealthyTerry
 {
-	partial class MinimalPlayer : Player
+	partial class StealthyTerryPlayer : Player
 	{
 		public override void Respawn()
 		{
