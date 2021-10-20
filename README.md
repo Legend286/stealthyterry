@@ -1,2 +1,2 @@
-# constructionyard
-Construction Yard Map addon for S&amp;box
+# Stealthy Terry
+Stealthy Terry gamemode for S&box.
