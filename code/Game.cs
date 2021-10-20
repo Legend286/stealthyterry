@@ -19,7 +19,7 @@ partial class SandboxGame : Game
 		player.Respawn();
 
 		cl.Pawn = player;
-	}
+	} 
 
 	protected override void OnDestroy()
 	{
